@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hola! 👋
+
+Mi nombre es Raúl, soy desarrollador full stack
+
+## 🔭 Actualmente estoy trabajando con ...
+
+* Angular
+* MongoDB
+
+## 🌱 Puedes revisar mi portfolio ...
+
+* https://aboutme.raulmorales.eu
 
 <!--
 **raulmoralesruiz/raulmoralesruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
