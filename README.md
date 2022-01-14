@@ -2,25 +2,25 @@
 
 Mi nombre es Raúl, soy desarrollador full stack
 
-## 💬 Estoy por aquí!
+## 👾 Sobre mí
+
+<a href="https://aboutme.raulmorales.eu" target="_blank">
+    <img style="border-radius: 50%" alt="raulmorales" src="https://aboutme.raulmorales.eu/assets/raul.png" width="75" height="75"/>
+</a>
+
+## 💬 Estoy por aquí
 
 <p>
-    <a href="https://www.linkedin.com/in/raulmoralesruiz/" target="blank">
+    <a href="https://www.linkedin.com/in/raulmoralesruiz/" target="_blank">
         <img alt="linkedin" src="files/linkedin2.svg"/>
     </a>
-    <a href="https://github.com/raulmoralesruiz" target="blank">
+    <a href="https://github.com/raulmoralesruiz" target="_blank">
         <img alt="github" src="files/github3.svg"/>
     </a>
-    <a href="https://www.freecodecamp.org/raulmorales" target="blank">
+    <a href="https://www.freecodecamp.org/raulmorales" target="_blank">
         <img alt="freecodecamp" src="files/freecodecamp2.svg"/>
     </a>
 </p>
-
-## 🌱 Sobre mi
-
-<a href="https://aboutme.raulmorales.eu" target="blank">
-    <img alt="raulmorales" src="https://aboutme.raulmorales.eu/assets/raul.png" width="75" height="75"/>
-</a>
 
 ---
 
@@ -30,15 +30,15 @@ Mi nombre es Raúl, soy desarrollador full stack
 
 <p>
     <img alt="shell" src="files/shell.svg"/>
-    <img alt="css" src="files/css3.svg"/>
     <img alt="html" src="files/html.svg"/>
-    <img alt="java" src="files/java.svg"/>
+    <img alt="css" src="files/css3.svg"/>
+    <img alt="sass" src="files/sass.svg"/>
     <img alt="javascript" src="files/javascript.svg"/>
+    <img alt="typescript" src="files/typescript2.svg"/>
+    <img alt="java" src="files/java.svg"/>
+    <img alt="python" src="files/python.svg"/>
     <img alt="markdown" src="files/markdown.svg"/>
     <img alt="nodejs" src="files/nodejs.svg"/>
-    <img alt="python" src="files/python.svg"/>
-    <img alt="sass" src="files/sass.svg"/>
-    <img alt="typescript" src="files/typescript2.svg"/>
 </p>
 
 ### 🧰 Frameworks y librerías
@@ -56,8 +56,8 @@ Mi nombre es Raúl, soy desarrollador full stack
 ### 🗄️ Bases de datos y hosting
 
 <p>
-    <img alt="mariadb" src="files/mariadb.svg"/>
     <img alt="mongodb" src="files/mongo2.svg"/>
+    <img alt="mariadb" src="files/mariadb.svg"/>
     <img alt="mysql" src="files/mysql.svg"/>
     <img alt="nextcloud" src="files/nextcloud.svg"/>
 </p>
@@ -65,14 +65,14 @@ Mi nombre es Raúl, soy desarrollador full stack
 ### 💻 Software y servidor personal
 
 <p>
+    <img alt="docker" src="files/docker2.svg"/>
+    <img alt="git" src="files/git2.svg"/>
     <img alt="vscode" src="files/vscode.svg"/>
     <img alt="vim" src="files/vim.svg"/>
     <img alt="eclipse" src="files/eclipse.svg"/>
-    <img alt="chrome" src="files/chrome.svg"/>
     <img alt="vivaldi" src="files/vivaldi.svg"/>
-    <img alt="git" src="files/git2.svg"/>
+    <img alt="chrome" src="files/chrome.svg"/>
     <img alt="nginx" src="files/nginx.svg"/>
-    <img alt="docker" src="files/docker2.svg"/>
     <img alt="postman" src="files/postman.svg"/>
     <img alt="apache" src="files/apache.svg"/>
     <img alt="jenkins" src="files/jenkins.svg"/>
@@ -83,5 +83,5 @@ Mi nombre es Raúl, soy desarrollador full stack
 <img alt="coding gif" src="files/code.gif" width="500" height="320" />
 
 <a href="https://github.com/raulmoralesruiz/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulmoralesruiz&layout=compact&theme=tokyonight&hide_border=true" />
- </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulmoralesruiz&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
